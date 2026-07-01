@@ -23,7 +23,7 @@ repository               : "TaoYySC/taoyysc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tao.jpg"
   name             : "Tao Yang"
   pronouns         : # example: "she/her"  
   bio              : "I am a student in the School of Bioinformatics, Tongji University."
