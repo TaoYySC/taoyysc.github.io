@@ -1,8 +1,12 @@
 ---
 title: "PhosLoc-Transport"
-excerpt: "A direction-aware framework links transcription factor phosphosites to localization and transcriptional output."
+excerpt: "A direction-aware framework links transcription factor phosphosites to localization and transcriptional output.<br/><img src='/images/phosloc-transport-fig1.jpg' alt='PhosLoc-Transport overview figure'>"
 collection: portfolio
+header:
+  teaser: phosloc-transport-fig1.jpg
 ---
+
+![PhosLoc-Transport overview figure](/images/phosloc-transport-fig1.jpg)
 
 **PhosLoc-Transport** is a two-stage computational framework for prioritizing transcription factor phosphosites that may regulate nuclear transport.
 

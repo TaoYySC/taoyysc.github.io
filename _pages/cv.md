@@ -20,9 +20,3 @@ Education
   * Major: Computer Science and Technology
   * School: College of Information Technology
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
