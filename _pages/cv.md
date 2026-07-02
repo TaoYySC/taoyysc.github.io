@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * M.S. in Bioinformatics, Tongji University, Shanghai, China, 2024 - Present
-  * Major: Bioinformatics
-  * School: School of Life Sciences and Technology
+  * Zhang Lab, School of Life Sciences and Technology
+  * Supervisors: Prof. Menghuan Zhang and Prof. Yong Zhang
   * Research interests: Functional phosphorylation site prediction, deep learning, and protein localization
 
 * B.S. in Computer Science and Technology, Shanghai Ocean University, Shanghai, China, 2020 - 2024

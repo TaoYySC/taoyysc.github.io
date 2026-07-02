@@ -13,8 +13,7 @@ title                    : "Tao Yang | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Tao Yang"
 description              : &description "Tao Yang's personal homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://taoyysc.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://taoyysc.cn
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TaoYySC/taoyysc.github.io"
 
@@ -26,9 +25,9 @@ author:
   avatar           : "tao.jpg"
   name             : "Tao Yang"
   pronouns         : # example: "she/her"  
-  bio              : "I am a student in the School of Bioinformatics, Tongji University."
-  location         : "ShangHai, China"
-  employer         : "Tongji University"
+  bio              : "M.S. student in Bioinformatics at Tongji University (Zhang Lab). Co-supervised by Prof. Menghuan Zhang and Prof. Yong Zhang. Developer of PhosLoc-Transport."
+  location         : "Shanghai, China"
+  employer         : "Zhang Lab, Tongji University"
   uri              : # URL
   email            : "taoyysc@gmail.com" 
 
