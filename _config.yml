@@ -25,16 +25,16 @@ author:
   avatar           : "tao-avatar.jpg"
   name             : "Tao Yang"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student in Bioinformatics at Tongji University (Zhang Lab). Co-supervised by Prof. Menghuan Zhang and Prof. Yong Zhang. Developer of PhosLoc-Transport."
+  bio              : "M.S. student in Bioinformatics at Tongji University."
   location         : "Shanghai, China"
-  employer         : "Zhang Lab, Tongji University"
+  employer         : "Tongji University"
   uri              : # URL
   email            : "taoyysc@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL - Update with your Google Scholar profile when ready
   inspire-hep      : # URL
   impactstory      : # URL
   # orcid            : "https://orcid.org/yourorcidurl"

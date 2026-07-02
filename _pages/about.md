@@ -53,5 +53,4 @@ With an undergraduate background in **Computer Science**, I bring skills in prog
 ## Contact
 
 Email: [taoyysc@gmail.com](mailto:taoyysc@gmail.com)  
-GitHub: [TaoYySC](https://github.com/TaoYySC)  
-Google Scholar: [Tao Yang](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
+GitHub: [TaoYySC](https://github.com/TaoYySC)
