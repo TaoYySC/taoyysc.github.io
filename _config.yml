@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Tao Yang | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Tao Yang"
-description              : &description "Tao Yang's personal homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Tao Yang's academic homepage. M.S. student in Bioinformatics at Tongji University, working on phosphorylation site prediction, protein localization, and computational biology."
 url                      : https://taoyysc.cn
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TaoYySC/taoyysc.github.io"
@@ -28,7 +28,7 @@ author:
   bio              : "M.S. student in Bioinformatics at Tongji University."
   location         : "Shanghai, China"
   employer         : "Tongji University"
-  uri              : # URL
+  uri              : "https://taoyysc.cn"
   email            : "taoyysc@gmail.com" 
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

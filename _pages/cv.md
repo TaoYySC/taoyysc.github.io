@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/cv.pdf)
+A PDF version of my CV is available here: [Download CV](/files/cv.pdf)
 
 <object data="/files/cv.pdf" type="application/pdf" width="100%" height="900px">
   <p>Your browser cannot display the PDF. Please <a href="/files/cv.pdf">download the CV</a>.</p>

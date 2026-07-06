@@ -6,7 +6,7 @@ header:
   teaser: phosloc-transport-fig1.jpg
 ---
 
-![PhosLoc-Transport overview figure](/images/phosloc-transport-fig1.jpg)
+<img src="/images/phosloc-transport-fig1.jpg" alt="PhosLoc-Transport overview figure" style="max-width: 100%; height: auto;">
 
 **PhosLoc-Transport** is a two-stage computational framework for prioritizing transcription factor phosphosites that may regulate nuclear transport.
 
@@ -28,6 +28,12 @@ The framework combines sequence-based and structure-aware machine learning to co
 - Two-stage prediction pipeline for regulatory potential and localization direction
 - CPTAC-based validation against tumor multi-omics target-gene regulation
 - Reproducible training, prediction, and analysis workflows with documented run settings
+
+## Highlights
+
+- Built a curated benchmark of transcription factor phosphosites with localization-related evidence
+- Achieved AUROC of 0.827 on a filtered held-out benchmark
+- Integrated CPTAC phosphoproteomic, proteomic, and RNA-seq data for downstream validation
 
 ## Associated work
 
